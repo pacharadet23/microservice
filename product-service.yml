@@ -1,7 +1,7 @@
 server:
   port: 8000
 message:
-  greeting: Hello! Product-service configuration
+  greeting: Hello! Product-service configuration pachara
 eureka:
   client:
     serviceUrl:
